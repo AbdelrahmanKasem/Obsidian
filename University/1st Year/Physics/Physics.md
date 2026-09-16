@@ -263,3 +263,7 @@
 |2|7|4|Study of the dynamics of rotational motion of a rigid body about a fixed axis; basic equation of rotational motion dynamics about a fixed axis|
 
 ---
+
+
+## Important Questions
+- 1.3, 1.9, 1.22, 1.27, 1.31
