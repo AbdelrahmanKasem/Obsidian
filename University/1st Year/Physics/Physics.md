@@ -5,11 +5,11 @@
 ## **Course Structure**
 
  
-|**Module**|**Main Topics**|
-|---|---|
-|****Module 1****|Kinematics, Dynamics of a Material Point, and Conservation Laws|
-|****Module 2****|Rigid Body Dynamics, Relativistic Mechanics, Mechanical Oscillations, and Mechanical Waves|
-|****Module 3****|Molecular Physics|
+| **Module** | **Main Topics**                                                                            |
+| ---------- | ------------------------------------------------------------------------------------------ |
+| Module1    | Kinematics, Dynamics of a Material Point, and Conservation Laws                            |
+| Module2    | Rigid Body Dynamics, Relativistic Mechanics, Mechanical Oscillations, and Mechanical Waves |
+| Module3    | Molecular Physics                                                                          |
 
 ---
 

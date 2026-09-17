@@ -369,3 +369,5 @@ You should understand how quadratic forms change under a change of basis and how
 
 ## Important Questions
 - 2.1, 2.8, 2.12, 2.14, 2.24, 2.187, 2.190
+- 1.18, 1.20, 1.25, 1.33
+- 1.47, 1.52, 1.57, 1.65(В), 1.66, 1.71, 1.78(В, Г, Е, К), 1.81

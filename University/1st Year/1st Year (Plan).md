@@ -27,7 +27,6 @@ Your **GPA** matters from the first semester.
 
 ### Mathematics
 
-- Precalculus review (only if needed)
 - Proof writing
 - Mathematical thinking
 
